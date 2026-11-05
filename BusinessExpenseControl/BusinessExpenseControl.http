@@ -1,0 +1,6 @@
+@BusinessExpenseControl_HostAddress = http://localhost:5014
+
+GET {{BusinessExpenseControl_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
